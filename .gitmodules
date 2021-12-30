@@ -1,0 +1,3 @@
+[submodule "Fengyd/themes/kiss"]
+	path = Fengyd/themes/kiss
+	url = https://github.com/ribice/kiss.git
